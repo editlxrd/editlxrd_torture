@@ -3,7 +3,7 @@
 <p><a href="https://dollarprynchd.github.io/editlxrd/">
 <img src="https://i.imgur.com/pqNtZqB.png" alt="https://dollarprynchd.github.io/editlxrd/">
 </a></p>
-<h2> One of my first MLO interiors ever made. Contains some bugs, feel free to edit or pull request it.</h2>
+One of my first MLO interiors ever made. Contains some bugs, feel free to edit or pull request it.
 
 
 
