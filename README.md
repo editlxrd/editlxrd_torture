@@ -1,5 +1,3 @@
-# editlxrd_torture
-
 <p><a href="https://dollarprynchd.github.io/editlxrd/">
 <img src="https://i.imgur.com/pqNtZqB.png" alt="https://dollarprynchd.github.io/editlxrd/">
 </a></p>
