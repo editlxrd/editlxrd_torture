@@ -3,7 +3,7 @@ One of my first MLO interiors ever made. Contains some bugs, feel free to edit o
 
 
 
-<a href="https://www.youtube.com/watch?v=kMkKO8vKY78
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=xUGtuGZZV_o
 " target="_blank">Quick Preview</a>
 
 
@@ -12,4 +12,4 @@ One of my first MLO interiors ever made. Contains some bugs, feel free to edit o
 
 | Coords        | 
 | ------------- |
-| -583.89, -1768.55, 24.08 | 
+| 939.09, -1493.34, 31.27 | 
